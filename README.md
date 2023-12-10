@@ -17,7 +17,7 @@ git clone https://github.com/Ritik-09/CWC-23-Performance-Prediction.git
 5. Commit your changes, verify your changes and push to the forked repo.
 ``` bash
 git add .
-git commit -m "Message"
+git commit -m "Write your message"
 git status
 git push origin main
 ```
